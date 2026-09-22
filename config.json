@@ -61,10 +61,10 @@
     },
     {
       "id": "fastapi-rest-apis",
-      "title": "Building REST APIs with FastAPI",
-      "description": "Creating a REST API with FastAPI and JSON endpoints",
+      "title": "Building REST APIs with FastAPI framework",
+      "description": "Create and test a REST API using FastAPI and Pydantic",
       "path": "assignments/fastapi-rest-apis",
-      "dueDate": "2026-10-13",
+      "dueDate": "2026-09-29",
       "attachments": [
         {
           "name": "Starter Code",
